@@ -1,5 +1,6 @@
 # Cryptocurrencies
-![image](https://user-images.githubusercontent.com/107161421/194781860-e3857dd2-f1c0-4d75-915f-b735f86ad240.png)
+![image](https://user-images.githubusercontent.com/107161421/194781980-26b76f29-479d-407d-88ef-e18e3a338bfc.png)
+
 
 
 ## Deliverable 1: Preprocessing the Data for PCA
